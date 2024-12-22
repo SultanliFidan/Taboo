@@ -10,7 +10,8 @@ namespace Taboo.Profiles
         {
             CreateMap<LanguageCreateDto, Language>()
                 .ForMember(l => l.Icon, d => d.MapFrom(t => t.IconUrl));
-            CreateMap<Language, LanguageGetDto>().ForMember(l => l.IconUrl, d => d.MapFrom(t => t.Icon));
+            CreateMap<Language, LanguageGetDto>()
+                .ForMember(l => l.IconUrl, d => d.MapFrom(t => t.Icon));
             CreateMap<LanguageUpdateDto, Language>()
                 .ForMember(l => l.Icon, d => d.MapFrom(t => t.IconUrl)).ReverseMap();
 

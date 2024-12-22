@@ -28,8 +28,19 @@ namespace Taboo.Configurations
                 .Property(x => x.Icon)
                 .IsRequired()
                 .HasMaxLength(128);
-            
-            
+            builder.HasData(new Language
+            {
+                Code = "az",
+                Name = "Azerbaycan",
+                Icon = "https://i.pinimg.com/originals/3e/42/c7/3e42c70e701ca316775ee19d1bc08e4c.png"
+            },
+            new Language
+            {
+                Code = "en",
+                Name = "English",
+                Icon = "https://www.citypng.com/public/uploads/preview/free-united-kingdom-england-uk-flag-icon-png-735811697023915sbq5vwe1oa.png"
+            });
+
         }
     }
 }

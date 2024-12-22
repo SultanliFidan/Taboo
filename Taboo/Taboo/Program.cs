@@ -22,6 +22,7 @@ namespace Taboo
             builder.Services.AddValidatorsFromAssemblyContaining<Program>();
             builder.Services.AddAutoMapper(typeof(Program));
             builder.Services.AddServices();
+            builder.Services.AddMemoryCache();
             builder.Services.AddDbContext<TabooDbContext>(opt =>
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"));

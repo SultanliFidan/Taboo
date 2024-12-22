@@ -8,7 +8,7 @@
 
         public InvalidBannedWordCountException()
         {
-            ErrorMessage = "Banned word count must be eqaul to 8";
+            ErrorMessage = "Banned word count must be eqaul to 6";
         }
 
         public InvalidBannedWordCountException(string message) : base(message)

@@ -1,4 +1,5 @@
-﻿using Taboo.Services.Abstracts;
+﻿using Microsoft.Extensions.Caching.Memory;
+using Taboo.Services.Abstracts;
 using Taboo.Services.Implements;
 
 namespace Taboo
@@ -9,6 +10,8 @@ namespace Taboo
         {
             services.AddScoped<ILanguageService, LanguageService>();
             services.AddScoped<IWordsService, WordService>();
+            services.AddScoped<IBannedWordService, BannedWordService>();
+            services.AddScoped<IGamesService, GameService>();
             
             return services;
         }

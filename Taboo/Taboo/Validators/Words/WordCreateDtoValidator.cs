@@ -1,5 +1,6 @@
 ﻿using FluentValidation;
 using Taboo.DTOs.Words;
+using Taboo.Enums;
 
 namespace Taboo.Validators.Words
 {
@@ -12,7 +13,9 @@ namespace Taboo.Validators.Words
                 .NotNull()
                 .MaximumLength(32);
             RuleFor(x => x.BannedWords)
-                .NotNull();
+                .NotNull()
+                .Must(x => x.Count() == (int)GameLevel.Hard)
+                .WithMessage((int)GameLevel.Hard + "eded unikal qadagan olunmus soz yazmalisiniz");
             RuleForEach(x => x.BannedWords)
                 .NotNull()
                 .MaximumLength(32);
