@@ -146,3 +146,6 @@ C:\Users\User\Desktop\Taboo\Taboo\Taboo\bin\Debug\net8.0\FluentValidation.AspNet
 C:\Users\User\Desktop\Taboo\Taboo\Taboo\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\User\Desktop\Taboo\Taboo\Taboo\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\User\Desktop\Taboo\Taboo\Taboo\obj\Debug\net8.0\Taboo.sourcelink.json
+C:\Users\User\Desktop\Taboo\Taboo\Taboo\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\User\Desktop\Taboo\Taboo\Taboo\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\User\Desktop\Taboo\Taboo\Taboo\bin\Debug\net8.0\StackExchange.Redis.dll

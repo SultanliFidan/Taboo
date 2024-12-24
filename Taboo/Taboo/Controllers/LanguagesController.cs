@@ -23,34 +23,9 @@ namespace Taboo.Controllers
         public async Task<IActionResult> Post(LanguageCreateDto dto)
         {
 
-            
-            try
-            {
                 await _service.CreateAsync(dto);
                 return Created();
-            }
-            catch (Exception ex)
-            {
-                if(ex is IBaseException ibe)
-                {
-
-                    return StatusCode(ibe.StatusCode, new
-                    {
-                        StatusCode = ibe.StatusCode,
-                        Message = ibe.ErrorMessage
-                    });
-                }
-                else
-                {
-                    return BadRequest(new
-                    {
-                        StatusCode = StatusCodes.Status400BadRequest,
-                        Message = ex.Message
-                    });
-                }
-            }
-
-
+            
         }
         [HttpDelete]
         [Route("{code}")]
@@ -64,31 +39,9 @@ namespace Taboo.Controllers
         [Route("{code}")]
         public async Task<IActionResult> Update(string code,LanguageUpdateDto dto)
         {
-            try
-            {
+            
                 await _service.UpdateAsync(code, dto);
                 return Ok();
-            }
-            catch (Exception ex)
-            {
-                if (ex is IBaseException ibe)
-                {
-
-                    return StatusCode(ibe.StatusCode, new
-                    {
-                        StatusCode = ibe.StatusCode,
-                        Message = ibe.ErrorMessage
-                    });
-                }
-                else
-                {
-                    return BadRequest(new
-                    {
-                        StatusCode = StatusCodes.Status400BadRequest,
-                        Message = ex.Message
-                    });
-                }
-            }
             
         }
 

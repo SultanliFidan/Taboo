@@ -1,9 +1,14 @@
 
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Taboo.DAL;
+using Taboo.Enums;
+using Taboo.Exceptions;
+using Taboo.ExternalServices.Abstracts;
+using Taboo.ExternalServices.Implements;
 using Taboo.Services.Abstracts;
 using Taboo.Services.Implements;
 
@@ -20,6 +25,9 @@ namespace Taboo
             builder.Services.AddControllers();
             builder.Services.AddFluentValidationAutoValidation();
             builder.Services.AddValidatorsFromAssemblyContaining<Program>();
+
+            builder.Services.AddCacheService(builder.Configuration,CacheTypes.Local);
+
             builder.Services.AddAutoMapper(typeof(Program));
             builder.Services.AddServices();
             builder.Services.AddMemoryCache();
@@ -40,6 +48,9 @@ namespace Taboo
                 app.UseSwaggerUI();
             }
 
+            
+            app.UseTabooExceptionHandler();
+            
             app.UseHttpsRedirection();
 
             app.UseAuthorization();

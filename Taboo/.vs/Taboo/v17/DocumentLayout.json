@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\exceptions\\game\\gamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\exceptions\\game\\gamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\exceptions\\game\\gamealreadyfinishedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\exceptions\\game\\gamealreadyfinishedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\dtos\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +27,80 @@
       "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\services\\abstracts\\igamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\dtos\\games\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\games\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\dtos\\words\\wordforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\words\\wordforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\exceptions\\language\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\exceptions\\language\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\enums\\cachetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\enums\\cachetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\externalservices\\abstracts\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\externalservices\\abstracts\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\externalservices\\implements\\localcacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\externalservices\\implements\\localcacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\externalservices\\implements\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\externalservices\\implements\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\exceptions\\game\\gamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\exceptions\\game\\gamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\exceptions\\game\\gamealreadyfinishedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\exceptions\\game\\gamealreadyfinishedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\dtos\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\dal\\taboodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dal\\taboodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\services\\abstracts\\ibannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,16 +155,8 @@
       "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\exceptions\\word\\wordexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\services\\abstracts\\iwordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\services\\abstracts\\iwordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\validators\\bannedwords\\bannedwordupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -141,10 +181,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|solutionrelative:taboo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85C288F5-5597-4C7C-8313-BE9FF3EC31EE}|Taboo\\Taboo.csproj|c:\\users\\user\\desktop\\taboo\\taboo\\taboo\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -190,11 +226,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "GameProfile.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Profiles\\GameProfile.cs",
               "RelativeDocumentMoniker": "Taboo\\Profiles\\GameProfile.cs",
@@ -203,11 +239,246 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T16:33:35.163Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 4,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Implements\\GameService.cs",
+              "RelativeDocumentMoniker": "Taboo\\Services\\Implements\\GameService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Implements\\GameService.cs",
+              "RelativeToolTip": "Taboo\\Services\\Implements\\GameService.cs",
+              "ViewState": "AgIAAFMAAACAwU9NZEMXwGsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:45:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGamesService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Abstracts\\IGamesService.cs",
+              "RelativeDocumentMoniker": "Taboo\\Services\\Abstracts\\IGamesService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Abstracts\\IGamesService.cs",
+              "RelativeToolTip": "Taboo\\Services\\Abstracts\\IGamesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:43:54.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Taboo\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Taboo\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAABgAAACAYh0fWRcnwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:18:10.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BannedWordsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\BannedWordsController.cs",
+              "RelativeDocumentMoniker": "Taboo\\Controllers\\BannedWordsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\BannedWordsController.cs",
+              "RelativeToolTip": "Taboo\\Controllers\\BannedWordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T00:00:16.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\WordsController.cs",
+              "RelativeDocumentMoniker": "Taboo\\Controllers\\WordsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\WordsController.cs",
+              "RelativeToolTip": "Taboo\\Controllers\\WordsController.cs",
+              "ViewState": "AgIAAAAAAAAAYB3x8fLtvzcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:06:12.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "Taboo\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "Taboo\\Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:32:28.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Games\\GameStatusDto.cs",
+              "RelativeDocumentMoniker": "Taboo\\DTOs\\Games\\GameStatusDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Games\\GameStatusDto.cs",
+              "RelativeToolTip": "Taboo\\DTOs\\Games\\GameStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:18:31.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Words\\WordCreateDto.cs",
+              "RelativeDocumentMoniker": "Taboo\\DTOs\\Words\\WordCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Words\\WordCreateDto.cs",
+              "RelativeToolTip": "Taboo\\DTOs\\Words\\WordCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T23:45:09.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WordForGameDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Words\\WordForGameDto.cs",
+              "RelativeDocumentMoniker": "Taboo\\DTOs\\Words\\WordForGameDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Words\\WordForGameDto.cs",
+              "RelativeToolTip": "Taboo\\DTOs\\Words\\WordForGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:20:01.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Implements\\WordService.cs",
+              "RelativeDocumentMoniker": "Taboo\\Services\\Implements\\WordService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Implements\\WordService.cs",
+              "RelativeToolTip": "Taboo\\Services\\Implements\\WordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:44:29.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LanguageExistException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Exceptions\\Language\\LanguageExistException.cs",
+              "RelativeDocumentMoniker": "Taboo\\Exceptions\\Language\\LanguageExistException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Exceptions\\Language\\LanguageExistException.cs",
+              "RelativeToolTip": "Taboo\\Exceptions\\Language\\LanguageExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:39:51.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CacheTypes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Enums\\CacheTypes.cs",
+              "RelativeDocumentMoniker": "Taboo\\Enums\\CacheTypes.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Enums\\CacheTypes.cs",
+              "RelativeToolTip": "Taboo\\Enums\\CacheTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:07:29.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Implements\\LanguageService.cs",
+              "RelativeDocumentMoniker": "Taboo\\Services\\Implements\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Implements\\LanguageService.cs",
+              "RelativeToolTip": "Taboo\\Services\\Implements\\LanguageService.cs",
+              "ViewState": "AgIAAAYAAACAlCiw61YUwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T23:47:13.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Taboo\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\ServiceRegistration.cs",
+              "RelativeToolTip": "Taboo\\ServiceRegistration.cs",
+              "ViewState": "AgIAABIAAAAABetM/hUSwCwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:43:39.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\ExternalServices\\Abstracts\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Taboo\\ExternalServices\\Abstracts\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\ExternalServices\\Abstracts\\ICacheService.cs",
+              "RelativeToolTip": "Taboo\\ExternalServices\\Abstracts\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:11:01.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LocalCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\ExternalServices\\Implements\\LocalCacheService.cs",
+              "RelativeDocumentMoniker": "Taboo\\ExternalServices\\Implements\\LocalCacheService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\ExternalServices\\Implements\\LocalCacheService.cs",
+              "RelativeToolTip": "Taboo\\ExternalServices\\Implements\\LocalCacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:52:29.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Program.cs",
+              "RelativeDocumentMoniker": "Taboo\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Program.cs",
+              "RelativeToolTip": "Taboo\\Program.cs",
+              "ViewState": "AgIAACsAAAAA4Ac/cK/gvzMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:38:54.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\ExternalServices\\Implements\\RedisService.cs",
+              "RelativeDocumentMoniker": "Taboo\\ExternalServices\\Implements\\RedisService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\ExternalServices\\Implements\\RedisService.cs",
+              "RelativeToolTip": "Taboo\\ExternalServices\\Implements\\RedisService.cs",
+              "ViewState": "AgIAAAcAAABgtHkdfJ4uwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:11:01.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "20241222224719_GameTableChanged.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Migrations\\20241222224719_GameTableChanged.cs",
               "RelativeDocumentMoniker": "Taboo\\Migrations\\20241222224719_GameTableChanged.cs",
@@ -215,48 +486,25 @@
               "RelativeToolTip": "Taboo\\Migrations\\20241222224719_GameTableChanged.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T22:47:20.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GamesController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\GamesController.cs",
-              "RelativeDocumentMoniker": "Taboo\\Controllers\\GamesController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\GamesController.cs",
-              "RelativeToolTip": "Taboo\\Controllers\\GamesController.cs",
-              "ViewState": "AgIAAC8AAAAAeoIApof5vzUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:18:10.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Taboo\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\ServiceRegistration.cs",
-              "RelativeToolTip": "Taboo\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:43:39.403Z",
+              "WhenOpened": "2024-12-22T22:47:20.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Program.cs",
-              "RelativeDocumentMoniker": "Taboo\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Program.cs",
-              "RelativeToolTip": "Taboo\\Program.cs",
-              "ViewState": "AgIAAAwAAACAj5zma/UiwBgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:38:54.836Z"
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\appsettings.json",
+              "RelativeDocumentMoniker": "Taboo\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\appsettings.json",
+              "RelativeToolTip": "Taboo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T16:41:52.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 20,
               "Title": "GameAlreadyFinishedException.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Exceptions\\Game\\GameAlreadyFinishedException.cs",
               "RelativeDocumentMoniker": "Taboo\\Exceptions\\Game\\GameAlreadyFinishedException.cs",
@@ -264,11 +512,12 @@
               "RelativeToolTip": "Taboo\\Exceptions\\Game\\GameAlreadyFinishedException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T21:21:07.219Z"
+              "WhenOpened": "2024-12-22T21:21:07.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 19,
               "Title": "GameNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Exceptions\\Game\\GameNotFoundException.cs",
               "RelativeDocumentMoniker": "Taboo\\Exceptions\\Game\\GameNotFoundException.cs",
@@ -281,31 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GameService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Implements\\GameService.cs",
-              "RelativeDocumentMoniker": "Taboo\\Services\\Implements\\GameService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Implements\\GameService.cs",
-              "RelativeToolTip": "Taboo\\Services\\Implements\\GameService.cs",
-              "ViewState": "AgIAABEAAACAXFJPQnUmwBkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:45:01.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IGamesService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Abstracts\\IGamesService.cs",
-              "RelativeDocumentMoniker": "Taboo\\Services\\Abstracts\\IGamesService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Abstracts\\IGamesService.cs",
-              "RelativeToolTip": "Taboo\\Services\\Abstracts\\IGamesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:43:54.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "TabooDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DAL\\TabooDbContext.cs",
               "RelativeDocumentMoniker": "Taboo\\DAL\\TabooDbContext.cs",
@@ -313,11 +538,12 @@
               "RelativeToolTip": "Taboo\\DAL\\TabooDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:30:06.25Z"
+              "WhenOpened": "2024-12-18T16:30:06.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "GameCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Games\\GameCreateDto.cs",
               "RelativeDocumentMoniker": "Taboo\\DTOs\\Games\\GameCreateDto.cs",
@@ -325,11 +551,12 @@
               "RelativeToolTip": "Taboo\\DTOs\\Games\\GameCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T16:07:06.877Z"
+              "WhenOpened": "2024-12-22T16:07:06.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Entities\\Game.cs",
               "RelativeDocumentMoniker": "Taboo\\Entities\\Game.cs",
@@ -337,35 +564,12 @@
               "RelativeToolTip": "Taboo\\Entities\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T20:14:05.051Z"
+              "WhenOpened": "2024-12-19T20:14:05.051Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WordsController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\WordsController.cs",
-              "RelativeDocumentMoniker": "Taboo\\Controllers\\WordsController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\WordsController.cs",
-              "RelativeToolTip": "Taboo\\Controllers\\WordsController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAIwE0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T22:06:12.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BannedWordsController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\BannedWordsController.cs",
-              "RelativeDocumentMoniker": "Taboo\\Controllers\\BannedWordsController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Controllers\\BannedWordsController.cs",
-              "RelativeToolTip": "Taboo\\Controllers\\BannedWordsController.cs",
-              "ViewState": "AgIAACEAAAAA+M5v+VQcwC8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T00:00:16.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "IBannedWordService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Abstracts\\IBannedWordService.cs",
               "RelativeDocumentMoniker": "Taboo\\Services\\Abstracts\\IBannedWordService.cs",
@@ -373,11 +577,12 @@
               "RelativeToolTip": "Taboo\\Services\\Abstracts\\IBannedWordService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:43:54.4Z"
+              "WhenOpened": "2024-12-19T21:43:54.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "BannedWordService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Implements\\BannedWordService.cs",
               "RelativeDocumentMoniker": "Taboo\\Services\\Implements\\BannedWordService.cs",
@@ -385,11 +590,12 @@
               "RelativeToolTip": "Taboo\\Services\\Implements\\BannedWordService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T21:54:55.018Z"
+              "WhenOpened": "2024-12-22T21:54:55.018Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "WordNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Exceptions\\Word\\WordNotFoundException.cs",
               "RelativeDocumentMoniker": "Taboo\\Exceptions\\Word\\WordNotFoundException.cs",
@@ -397,11 +603,12 @@
               "RelativeToolTip": "Taboo\\Exceptions\\Word\\WordNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T13:49:35.226Z"
+              "WhenOpened": "2024-12-21T13:49:35.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "GameLevel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Enums\\GameLevel.cs",
               "RelativeDocumentMoniker": "Taboo\\Enums\\GameLevel.cs",
@@ -409,11 +616,12 @@
               "RelativeToolTip": "Taboo\\Enums\\GameLevel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T16:08:59.711Z"
+              "WhenOpened": "2024-12-22T16:08:59.711Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "GameConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Configurations\\GameConfiguration.cs",
               "RelativeDocumentMoniker": "Taboo\\Configurations\\GameConfiguration.cs",
@@ -421,11 +629,12 @@
               "RelativeToolTip": "Taboo\\Configurations\\GameConfiguration.cs",
               "ViewState": "AgIAAAMAAACoRRfJQqwnwBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T20:32:32.854Z"
+              "WhenOpened": "2024-12-19T20:32:32.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "BannedWord.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Entities\\BannedWord.cs",
               "RelativeDocumentMoniker": "Taboo\\Entities\\BannedWord.cs",
@@ -433,11 +642,12 @@
               "RelativeToolTip": "Taboo\\Entities\\BannedWord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:19:59.87Z"
+              "WhenOpened": "2024-12-19T21:19:59.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "WordGetDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Words\\WordGetDto.cs",
               "RelativeDocumentMoniker": "Taboo\\DTOs\\Words\\WordGetDto.cs",
@@ -445,11 +655,12 @@
               "RelativeToolTip": "Taboo\\DTOs\\Words\\WordGetDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T00:33:08.156Z"
+              "WhenOpened": "2024-12-22T00:33:08.156Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "BannedWordCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\BannedWords\\BannedWordCreateDto.cs",
               "RelativeDocumentMoniker": "Taboo\\DTOs\\BannedWords\\BannedWordCreateDto.cs",
@@ -457,11 +668,12 @@
               "RelativeToolTip": "Taboo\\DTOs\\BannedWords\\BannedWordCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T23:45:19.247Z"
+              "WhenOpened": "2024-12-21T23:45:19.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "BannedWordConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Configurations\\BannedWordConfiguration.cs",
               "RelativeDocumentMoniker": "Taboo\\Configurations\\BannedWordConfiguration.cs",
@@ -469,11 +681,12 @@
               "RelativeToolTip": "Taboo\\Configurations\\BannedWordConfiguration.cs",
               "ViewState": "AgIAAAAAAABIUmHiPQQawBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T18:35:21.843Z"
+              "WhenOpened": "2024-12-21T18:35:21.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "Word.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Entities\\Word.cs",
               "RelativeDocumentMoniker": "Taboo\\Entities\\Word.cs",
@@ -481,11 +694,12 @@
               "RelativeToolTip": "Taboo\\Entities\\Word.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:16:57.253Z"
+              "WhenOpened": "2024-12-19T21:16:57.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "BannedWordNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Exceptions\\BannedWord\\BannedWordNotFoundException.cs",
               "RelativeDocumentMoniker": "Taboo\\Exceptions\\BannedWord\\BannedWordNotFoundException.cs",
@@ -493,11 +707,12 @@
               "RelativeToolTip": "Taboo\\Exceptions\\BannedWord\\BannedWordNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T23:56:44.15Z"
+              "WhenOpened": "2024-12-21T23:56:44.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 36,
               "Title": "BannedWordExistException.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Exceptions\\BannedWord\\BannedWordExistException.cs",
               "RelativeDocumentMoniker": "Taboo\\Exceptions\\BannedWord\\BannedWordExistException.cs",
@@ -505,11 +720,12 @@
               "RelativeToolTip": "Taboo\\Exceptions\\BannedWord\\BannedWordExistException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T23:55:03.368Z"
+              "WhenOpened": "2024-12-21T23:55:03.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "WordExistException.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Exceptions\\Word\\WordExistException.cs",
               "RelativeDocumentMoniker": "Taboo\\Exceptions\\Word\\WordExistException.cs",
@@ -517,35 +733,12 @@
               "RelativeToolTip": "Taboo\\Exceptions\\Word\\WordExistException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T13:31:23.291Z"
+              "WhenOpened": "2024-12-21T13:31:23.291Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LanguageService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Implements\\LanguageService.cs",
-              "RelativeDocumentMoniker": "Taboo\\Services\\Implements\\LanguageService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Implements\\LanguageService.cs",
-              "RelativeToolTip": "Taboo\\Services\\Implements\\LanguageService.cs",
-              "ViewState": "AgIAACoAAADAXqv41MYnwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T23:47:13.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "WordCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Words\\WordCreateDto.cs",
-              "RelativeDocumentMoniker": "Taboo\\DTOs\\Words\\WordCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Words\\WordCreateDto.cs",
-              "RelativeToolTip": "Taboo\\DTOs\\Words\\WordCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T23:45:09.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "IWordsService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Services\\Abstracts\\IWordsService.cs",
               "RelativeDocumentMoniker": "Taboo\\Services\\Abstracts\\IWordsService.cs",
@@ -553,11 +746,12 @@
               "RelativeToolTip": "Taboo\\Services\\Abstracts\\IWordsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:43:57.459Z"
+              "WhenOpened": "2024-12-19T21:43:57.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "BannedWordUpdateDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Validators\\BannedWords\\BannedWordUpdateDtoValidator.cs",
               "RelativeDocumentMoniker": "Taboo\\Validators\\BannedWords\\BannedWordUpdateDtoValidator.cs",
@@ -565,11 +759,12 @@
               "RelativeToolTip": "Taboo\\Validators\\BannedWords\\BannedWordUpdateDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T18:29:09.484Z"
+              "WhenOpened": "2024-12-21T18:29:09.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 40,
               "Title": "BannedWordCreateDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Validators\\BannedWords\\BannedWordCreateDtoValidator.cs",
               "RelativeDocumentMoniker": "Taboo\\Validators\\BannedWords\\BannedWordCreateDtoValidator.cs",
@@ -577,11 +772,12 @@
               "RelativeToolTip": "Taboo\\Validators\\BannedWords\\BannedWordCreateDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T18:10:07.095Z"
+              "WhenOpened": "2024-12-21T18:10:07.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "BannedWordGetDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\BannedWords\\BannedWordGetDto.cs",
               "RelativeDocumentMoniker": "Taboo\\DTOs\\BannedWords\\BannedWordGetDto.cs",
@@ -589,11 +785,12 @@
               "RelativeToolTip": "Taboo\\DTOs\\BannedWords\\BannedWordGetDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T18:27:04.163Z"
+              "WhenOpened": "2024-12-21T18:27:04.163Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 42,
               "Title": "WordConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Configurations\\WordConfiguration.cs",
               "RelativeDocumentMoniker": "Taboo\\Configurations\\WordConfiguration.cs",
@@ -601,11 +798,12 @@
               "RelativeToolTip": "Taboo\\Configurations\\WordConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:24:40.303Z"
+              "WhenOpened": "2024-12-19T21:24:40.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 43,
               "Title": "LanguageConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Configurations\\LanguageConfiguration.cs",
               "RelativeDocumentMoniker": "Taboo\\Configurations\\LanguageConfiguration.cs",
@@ -613,11 +811,12 @@
               "RelativeToolTip": "Taboo\\Configurations\\LanguageConfiguration.cs",
               "ViewState": "AgIAAA4AAACAj5x2Y60dwCkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T20:19:39.327Z"
+              "WhenOpened": "2024-12-19T20:19:39.327Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 44,
               "Title": "Language.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Entities\\Language.cs",
               "RelativeDocumentMoniker": "Taboo\\Entities\\Language.cs",
@@ -625,23 +824,12 @@
               "RelativeToolTip": "Taboo\\Entities\\Language.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:50:51.835Z"
+              "WhenOpened": "2024-12-18T16:50:51.835Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\appsettings.json",
-              "RelativeDocumentMoniker": "Taboo\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\appsettings.json",
-              "RelativeToolTip": "Taboo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-18T16:41:52.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 45,
               "Title": "LanguageProfile.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Profiles\\LanguageProfile.cs",
               "RelativeDocumentMoniker": "Taboo\\Profiles\\LanguageProfile.cs",
@@ -649,11 +837,12 @@
               "RelativeToolTip": "Taboo\\Profiles\\LanguageProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:25:18.503Z"
+              "WhenOpened": "2024-12-18T19:25:18.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 46,
               "Title": "LanguageUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Languages\\LanguageUpdateDto.cs",
               "RelativeDocumentMoniker": "Taboo\\DTOs\\Languages\\LanguageUpdateDto.cs",
@@ -661,11 +850,12 @@
               "RelativeToolTip": "Taboo\\DTOs\\Languages\\LanguageUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T22:53:23.008Z"
+              "WhenOpened": "2024-12-18T22:53:23.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 47,
               "Title": "InvalidBannedWordCountException.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Exceptions\\Word\\InvalidBannedWordCountException.cs",
               "RelativeDocumentMoniker": "Taboo\\Exceptions\\Word\\InvalidBannedWordCountException.cs",
@@ -673,11 +863,12 @@
               "RelativeToolTip": "Taboo\\Exceptions\\Word\\InvalidBannedWordCountException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T22:03:22.433Z"
+              "WhenOpened": "2024-12-19T22:03:22.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 48,
               "Title": "LanguageGetDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Languages\\LanguageGetDto.cs",
               "RelativeDocumentMoniker": "Taboo\\DTOs\\Languages\\LanguageGetDto.cs",
@@ -685,11 +876,12 @@
               "RelativeToolTip": "Taboo\\DTOs\\Languages\\LanguageGetDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:08:00.764Z"
+              "WhenOpened": "2024-12-18T19:08:00.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 49,
               "Title": "LanguageCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\DTOs\\Languages\\LanguageCreateDto.cs",
               "RelativeDocumentMoniker": "Taboo\\DTOs\\Languages\\LanguageCreateDto.cs",
@@ -697,11 +889,12 @@
               "RelativeToolTip": "Taboo\\DTOs\\Languages\\LanguageCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:17:00.471Z"
+              "WhenOpened": "2024-12-18T18:17:00.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 50,
               "Title": "LanguageCreateDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
               "RelativeDocumentMoniker": "Taboo\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
@@ -709,11 +902,12 @@
               "RelativeToolTip": "Taboo\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T18:23:44.244Z"
+              "WhenOpened": "2024-12-18T18:23:44.244Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 51,
               "Title": "IBaseException.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\Exceptions\\IBaseException.cs",
               "RelativeDocumentMoniker": "Taboo\\Exceptions\\IBaseException.cs",
@@ -721,11 +915,12 @@
               "RelativeToolTip": "Taboo\\Exceptions\\IBaseException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T19:20:46.896Z"
+              "WhenOpened": "2024-12-19T19:20:46.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 52,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Taboo\\Taboo\\Taboo\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Taboo\\appsettings.Development.json",
@@ -733,7 +928,8 @@
               "RelativeToolTip": "Taboo\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-18T16:54:30.519Z"
+              "WhenOpened": "2024-12-18T16:54:30.519Z",
+              "EditorCaption": ""
             }
           ]
         }

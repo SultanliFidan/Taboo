@@ -6,10 +6,10 @@
         public string ErrorMessage {get;}
         public LanguageExistException()
         {
-            ErrorMessage = "Language  already added in database";
+            ErrorMessage = "Language  already added  database";
         }
 
-        public LanguageExistException(string? message) : base(message)
+        public LanguageExistException(string message) : base(message)
         {
             ErrorMessage = message;
         }
